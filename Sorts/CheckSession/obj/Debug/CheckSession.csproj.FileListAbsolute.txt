@@ -1,0 +1,4 @@
+C:\Users\575435\documents\visual studio 2010\Projects\Sorts\CheckSession\bin\CheckSession.dll
+C:\Users\575435\documents\visual studio 2010\Projects\Sorts\CheckSession\bin\CheckSession.pdb
+C:\Users\575435\documents\visual studio 2010\Projects\Sorts\CheckSession\obj\Debug\CheckSession.dll
+C:\Users\575435\documents\visual studio 2010\Projects\Sorts\CheckSession\obj\Debug\CheckSession.pdb

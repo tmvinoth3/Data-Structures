@@ -1,0 +1,4 @@
+c:\users\575435\documents\visual studio 2010\Projects\linklist\linklist\bin\Debug\linklist.exe
+c:\users\575435\documents\visual studio 2010\Projects\linklist\linklist\bin\Debug\linklist.pdb
+c:\users\575435\documents\visual studio 2010\Projects\linklist\linklist\obj\x86\Debug\linklist.exe
+c:\users\575435\documents\visual studio 2010\Projects\linklist\linklist\obj\x86\Debug\linklist.pdb

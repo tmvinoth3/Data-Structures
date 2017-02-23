@@ -1,0 +1,5 @@
+c:\users\575435\documents\visual studio 2010\Projects\Sorts\Sorts\bin\Debug\Sorts.exe
+c:\users\575435\documents\visual studio 2010\Projects\Sorts\Sorts\bin\Debug\Sorts.pdb
+c:\users\575435\documents\visual studio 2010\Projects\Sorts\Sorts\obj\x86\Debug\Sorts.exe
+c:\users\575435\documents\visual studio 2010\Projects\Sorts\Sorts\obj\x86\Debug\Sorts.pdb
+C:\Users\575435\documents\visual studio 2010\Projects\Sorts\Sorts\obj\x86\Debug\Sorts.csprojResolveAssemblyReference.cache
